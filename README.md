@@ -3,21 +3,21 @@
 A Handwritten Digit classifier that uses CNN classification model to classify MNIST Dataset
 
 ## Description 
-This is a handwritten digit recognizer, which allows users to Write Numbers and this gets input to the model.<br>
+This is a handwritten digit recognizer, which allows users to manually write single digit numbers.<br>
 The model then predicts the digit written, and also displays the accurate alongside.
 
 ## Dataset
-The Dataset used is the MNIST Dataset. The link to the data is <a href='http://yann.lecun.com/exdb/mnist/'>here</a>
+The Dataset used is the <a href='http://yann.lecun.com/exdb/mnist/'>MNIST Dataset</a>
 
 ### Brief Description of the Dataset
 The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems.
 The MNIST database contains 60,000 training images and 10,000 testing images.
 
 ## Working
-A Simple Neural Network was used, and this was trained on a GPU-enabled server from Google Collab, it was trained to recognize handwritten digits using the MNIST dataset.
+Using Neural Network trained a model to recognize handwritten digits using the MNIST dataset.
 
 ## Results 
-As you can see in my notebook file, the model obtained an accuracy of 99%, but it was still inconsistent, on certain types of handwritting.
+The model obtained an accuracy of 98%, but it was still inconsistent, on certain types of handwritting of digits.
 
 ## Screenshots
 The Graphics User Interface was built using Pygame library.<br><br>
