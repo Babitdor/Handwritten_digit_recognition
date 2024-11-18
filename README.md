@@ -1,4 +1,4 @@
-# Handwritten_digit_recognition
+# Handwritten Digit Recognition
 
 This repository contains an implementation of a Handwritten Digit Recognition model using Python and machine learning libraries like TensorFlow and Keras. The model is trained on the MNIST dataset, which consists of 28x28 pixel images of handwritten digits (0-9), and is designed to predict the correct digit for any input image.
 
