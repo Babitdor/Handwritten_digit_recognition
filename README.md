@@ -11,11 +11,11 @@ This repository contains an implementation of a Handwritten Digit Recognition mo
 ## Prerequisites
 To run this project, you'll need:
 
-Python 3.7 or higher
-TensorFlow
-Keras
-NumPy
-Matplotlib (for visualizing training history and predictions)
+1. Python 3.7 or higher
+2. TensorFlow
+3. Keras
+4. NumPy
+5. Matplotlib (for visualizing training history and predictions)
 
 ## Dataset
 The Dataset used is the <a href='http://yann.lecun.com/exdb/mnist/'>MNIST Dataset</a>
